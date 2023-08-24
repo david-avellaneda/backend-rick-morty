@@ -20,7 +20,6 @@ Esta aplicación utiliza la API de GraphQL de Rick and Morty para realizar consu
 2. Abre una terminal y navega hasta la carpeta del proyecto:
 
 ```
-  bash
   cd ruta/del/proyecto
 ```
 
@@ -53,4 +52,4 @@ El servidor estará en funcionamiento en `http://localhost:3001`.
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario, no dudes en contactarme en `[avellaneda.dev@gmail.com]`.
+Si tienes alguna pregunta o comentario, no dudes en contactarme en `avellaneda.dev@gmail.com`.
